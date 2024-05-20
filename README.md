@@ -1,7 +1,8 @@
 # 💫 About Me:
 Philippe Andrei "Rei" Dael 🌸<br><br><br>Sophomore at CIT-U currently studying Computer Science.<br><br><br>🍒 Software Development<br>🍒 Studying Web Development Technologies<br>
 
-![](https://github-readme-stats.vercel.app/api?username=rei-naissance&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rei-naissance&theme=midnight-purple&hide_border=true&include_all_commits=false&count)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rei-naissance&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rei-naissance&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
