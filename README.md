@@ -3,24 +3,13 @@
   <img src="https://raw.githubusercontent.com/rei-naissance/rei-naissance/main/assets/yes.gif" width="100%"/>
 </p>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="assets/photo%20with%20pookiei.jpg" alt="Rei Dael" width="160" style="border-radius: 50%;" />
-      </td>
-      <td align="left" style="vertical-align: middle; padding-left: 24px;">
-        <h2>Hey, I'm Rei! 🟣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-        <b>Code. Create. Connect.</b><br/>
-        <span style="font-size: 1.1em;">
-          Computer Science Junior @ Cebu Institute of Technology - University<br/>
-          <b>Software Developer • Web Developer • Data Enthusiast</b><br/>
-          <i>Passionate about building, learning, and sharing cool tech!</i>
-        </span>
-      </td>
-    </tr>
-  </table>
-</div>
+# Hey, I'm Rei! 🟣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
+
+<h4 align="center"><b>Code. Create. Connect.</b></h4>
+
+<p align="center">
+  <b>Computer Science Junior @ Cebu Institute of Technology - University • Software Developer • Web Developer • Data Enthusiast</b>
+</p>
 
 ---
 
