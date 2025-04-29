@@ -4,10 +4,10 @@
 </p>
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="assets/photo%20with%20pookiei.jpg" alt="Rei Dael" width="160" style="border-radius: 16px; box-shadow: 0 4px 16px #8e24aa55;" />
+        <img src="assets/photo%20with%20pookiei.jpg" alt="Rei Dael" width="160" style="border-radius: 50%;" />
       </td>
       <td align="left" style="vertical-align: middle; padding-left: 24px;">
         <h2>Hey, I'm Rei! 🟣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
