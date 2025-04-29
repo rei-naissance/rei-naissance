@@ -1,9 +1,9 @@
-<!-- Modern Hero Banner -->
+<!-- Purple Hero Banner (SVG, always works) -->
 <p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=rei-naissance&theme=tokyonight&font=Montserrat&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rei-naissance/rei-naissance/main/assets/purple-banner.svg" alt="rei-naissance Purple Banner" width="100%"/>
 </p>
 
-# Hey, I'm Rei! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
+# Hey, I'm Rei! 🟣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
 **Code. Create. Connect.**
 
 <p align="center">
@@ -14,24 +14,24 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php,html,css,react,tailwind,bootstrap,vite,mysql,firebase,figma,apache"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php,html,css,react,tailwind,bootstrap,vite,mysql,firebase,figma,apache&theme=light&perline=8"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rei-naissance&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rei-naissance&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rei-naissance&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rei-naissance&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rei-naissance&show_icons=true&theme=midnight-purple&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rei-naissance&theme=midnight-purple&hide_border=true" width="48%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rei-naissance&theme=tokyonight&hide_border=true&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rei-naissance&theme=midnight-purple&hide_border=true&layout=compact" width="48%"/>
 </p>
 
 ---
@@ -56,5 +56,5 @@
 </p> -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rei-naissance&style=for-the-badge" alt="rei-naissance"/>
+  <img src="https://komarev.com/ghpvc/?username=rei-naissance&style=for-the-badge&color=8e24aa" alt="rei-naissance"/>
 </p>
