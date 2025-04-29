@@ -4,24 +4,25 @@
 </p>
 
 # Hey, I'm Rei! 🟣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
-**Code. Create. Connect.**
+
+<p align="center"><b>Code. Create. Connect.</b></p>
 
 <p align="center">
-  <b>CS Junior @ CIT-U • Software Dev • Web & Data Enthusiast</b>
+  <b>Computer Science Junior @ Cebu Institute of Technology - University • Software Developer • Web Developer • Data Enthusiast</b>
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php,html,css,react,tailwind,bootstrap,vite,mysql,firebase,figma,apache&theme=light&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,html,css,react,tailwind,bootstrap,vite,mysql,firebase,figma,apache,aspdotnet,supabase&theme=light&perline=10"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rei-naissance&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rei-naissance&theme=purple_heart&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
