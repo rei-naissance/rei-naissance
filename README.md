@@ -3,19 +3,30 @@
   <img src="https://raw.githubusercontent.com/rei-naissance/rei-naissance/main/assets/yes.gif" width="100%"/>
 </p>
 
-# Hey, I'm Rei! 🟣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
-
-<p align="center"><b>Code. Create. Connect.</b></p>
-
-<p align="center">
-  <b>Computer Science Junior @ Cebu Institute of Technology - University • Software Developer • Web Developer • Data Enthusiast</b>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="assets/photo%20with%20pookiei.jpg" alt="Rei Dael" width="160" style="border-radius: 16px; box-shadow: 0 4px 16px #8e24aa55;" />
+      </td>
+      <td align="left" style="vertical-align: middle; padding-left: 24px;">
+        <h2>Hey, I'm Rei! 🟣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+        <b>Code. Create. Connect.</b><br/>
+        <span style="font-size: 1.1em;">
+          Computer Science Junior @ Cebu Institute of Technology - University<br/>
+          <b>Software Developer • Web Developer • Data Enthusiast</b><br/>
+          <i>Passionate about building, learning, and sharing cool tech!</i>
+        </span>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,html,css,react,tailwind,bootstrap,vite,mysql,firebase,figma,apache,aspdotnet,supabase&theme=light&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php,html,css,react,tailwind,bootstrap,vite,mysql,firebase,figma,supabase&theme=light&perline=10"/>
 </p>
 
 ---
