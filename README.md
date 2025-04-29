@@ -1,6 +1,6 @@
-<!-- Purple Hero Banner (SVG, always works) -->
+<!-- Hero GIF Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rei-naissance/rei-naissance/main/assets/purple-banner.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rei-naissance/rei-naissance/main/assets/yes.gif" width="100%"/>
 </p>
 
 # Hey, I'm Rei! 🟣 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
