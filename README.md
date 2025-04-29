@@ -36,7 +36,7 @@
 
 ---
 
-## 🌱 Featured Projects
+<!-- ## 🌱 Featured Projects
 <p align="center">
   <a href="https://github.com/rei-naissance/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rei-naissance&repo=project1&theme=tokyonight"/>
@@ -44,16 +44,16 @@
   <a href="https://github.com/rei-naissance/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rei-naissance&repo=project2&theme=tokyonight"/>
   </a>
-</p>
+</p> -->
 
----
+<!-- ---
 
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rei-naissance&style=for-the-badge" alt="rei-naissance"/>
