@@ -1,6 +1,6 @@
 <!-- Dark Purple Hero Banner -->
 <p align="center">
-  <img src="assets/cattoooo.gif" width="100%" alt="Dark Purple Banner"/>
+  <img src="assets/cattoooo.gif" height="50%" alt="Dark Purple Banner"/>
 </p>
 
 <div align="center">
