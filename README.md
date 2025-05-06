@@ -36,10 +36,6 @@
       <img src="https://skillicons.dev/icons?i=vue&theme=dark&perline=1" width="48"/>
       <p style="margin: 8px 0; font-size: 1em; font-weight: bold;">Vue.js</p>
     </div>
-    <div style="padding: 15px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=1" width="48"/>
-      <p style="margin: 8px 0; font-size: 1em; font-weight: bold;">Docker</p>
-    </div>
   </div>
 </div>
 
