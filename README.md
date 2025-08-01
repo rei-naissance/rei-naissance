@@ -13,7 +13,7 @@
         <h1>Hey, I'm Rei! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
         <span style="font-size: 1.1em;">
           Computer Science Junior @ Cebu Institute of Technology - University<br/>
-          <b>Software Developer • Web Developer</b><br/>
+          <b>Software Developer • Mobile/Web Developer</b><br/>
           <i>I need more sleep.</i>
         </span>
       </td>
