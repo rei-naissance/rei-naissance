@@ -8,7 +8,7 @@
         <h1>Hi there, I'm Philippe Andrei (Rei)! 👋</h1>
         <span style="font-size: 1.1em;">
           <strong>Computer Science Junior</strong> at Cebu Institute of Technology - University<br/>
-          <strong>Software Developer • Mobile & Web Developer</strong>
+          <strong>Software Developer • <strong>Mobile Applications Developer</strong> at Ayahay
         </span>
       </td>
     </tr>
