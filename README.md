@@ -1,39 +1,24 @@
-# Philippe Andrei "rei" Dael
-**Software Engineer | Web Applications | Artificial Intelligence & Machine Learning**
+### Hey there! 👋
 
-Professional developer focused on building scalable, user-centric digital experiences. Currently working on web applications at **Hayahai** while completing my final year in Computer Science.
+I'm **Rei**, a software engineer based in the Philippines.
 
----
+I build scalable web applications and explore the intersection of **Artificial Intelligence** and **Modern Software Architecture**.
 
-### ✦ Current Focus
-- Advancing technical expertise in distributed systems and modern web standards.
-- Implementing robust full-stack architectures using TypeScript and .NET.
-- Exploring modern software design patterns and performance optimization.
+I enjoy the process of turning complex problems into elegant, user-centric solutions. If a challenge catches my interest, I'll likely spend my nights architecting a way to solve it.
 
-### I Build With
-- **Languages:** `TypeScript` `JavaScript` `PHP` `C#` `Java` `Python` `C++` `SQL`
-- **Frontend:** `Next.js` `React` `Vue` `Blazor` `TailwindCSS` `HTML5`
-- **Backend/Cloud:** `.NET Core` `ASP.NET` `NestJS` `Node.js` `Docker` `AWS S3`
-- **Intelligence & Data:** `PyTorch` `Keras` `TensorFlow` `NumPy` `Pandas` `Scikit-Learn`
-- **Storage/DB:** `PostgreSQL` `MySQL` `Supabase` `Firebase`
-- **Tools:** `Vite` `Git` `Figma` `Notion`
+My main tech stack revolves around **TypeScript (Next.js/NestJS)** and the **.NET Ecosystem (C#/ASP.NET)**. For intelligence, I leverage **PyTorch** and **TensorFlow** to build and deploy ML models.
+
+Currently, I'm working on core web initiatives at [**Hayahai**](https://hayahai.id) while finishing my final year in Computer Science at **CIT-U**.
+
+Beyond the code, I'm a firm believer in continuous learning—whether it's mastering a new framework or refining system performance.
 
 ---
 
-### 📊 Performance & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rei-naissance&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rei-naissance&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rei-naissance&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=8b949e&sideLabels=8b949e" width="94%" />
-</p>
-
----
-
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/philippe-andrei-dael-b01769288/) • [Email](mailto:philippeandreid@gmail.com) • [Twitter](https://x.com/rei_naissance) • [Instagram](https://www.instagram.com/reiirei._/)
+#### Fun Facts:
+- 🐱 I'm a huge cat lover.
+- ☕ I fuel my late-night coding sessions with more caffeine than I probably should (I also barely sleep).
+- 🏗️ I love building in public and shipping side projects.
+- ⚡ Always down to talk about AI, distributed systems, or the latest in web tech.
 
 ---
 
