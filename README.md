@@ -15,7 +15,7 @@ Beyond the code, I'm a firm believer in continuous learning—whether it's maste
 ---
 
 #### Fun Facts:
-- 🐱 I'm a huge cat lover.
+- 🐱 I'm a huge cat lover (I love my girlfriend more though <3).
 - ☕ I fuel my late-night coding sessions with more caffeine than I probably should (I also barely sleep).
 - 🏗️ I love building in public and shipping side projects.
 - ⚡ Always down to talk about AI, distributed systems, or the latest in web tech.
