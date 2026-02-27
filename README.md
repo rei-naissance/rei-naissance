@@ -8,8 +8,6 @@ My main tech stack revolves around **TypeScript (Next.js/NestJS)** and the **.NE
 
 Currently, I'm working on core web initiatives at [**Hayahai**](https://www.ayahay.com) while finishing my final year in Computer Science at **CIT-U**.
 
-Beyond the code, I'm a firm believer in continuous learning—whether it's mastering a new framework or refining system performance.
-
 ---
 
 ### Stuff That I Worked On
